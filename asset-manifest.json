@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.0ae794f4.css",
+    "main.js": "/demo/static/js/main.0db973e3.js",
+    "static/js/453.c525d7c0.chunk.js": "/demo/static/js/453.c525d7c0.chunk.js",
+    "static/media/homeImages1.jpg": "/demo/static/media/homeImages1.a6c3726fbc65bae4ded0.jpg",
+    "static/media/ReviewImages3.jpg": "/demo/static/media/ReviewImages3.cacaafe7c314d5357ff7.jpg",
+    "static/media/ReviewImages2.jpg": "/demo/static/media/ReviewImages2.f6a97e27344b63a9f4d3.jpg",
+    "static/media/productImages1.jpg": "/demo/static/media/productImages1.cdc324c1dddcab652e3c.jpg",
+    "static/media/BlogsImages3.jpg": "/demo/static/media/BlogsImages3.bf71007d588abeb336f7.jpg",
+    "static/media/productImages3.jpg": "/demo/static/media/productImages3.6c3ff629d71911fd8b19.jpg",
+    "static/media/menuimages4.jpg": "/demo/static/media/menuimages4.da23d52efcef5a964347.jpg",
+    "static/media/menuimages2.jpg": "/demo/static/media/menuimages2.841c5312e5a5fc15c507.jpg",
+    "static/media/aboutImages.jpg": "/demo/static/media/aboutImages.4ab1ec44be85e848ad89.jpg",
+    "static/media/menuimages5.jpg": "/demo/static/media/menuimages5.28685573d7c9d5c67642.jpg",
+    "static/media/logo.webp": "/demo/static/media/logo.788d79679d533236bf63.webp",
+    "static/media/BlogsImages1.jpg": "/demo/static/media/BlogsImages1.06d4556ef4b7d69c26dd.jpg",
+    "static/media/cartImages3.jpg": "/demo/static/media/cartImages3.a78f102b20ef57f2fb33.jpg",
+    "static/media/cartImages2.jpg": "/demo/static/media/cartImages2.e611616e1e55459d69b2.jpg",
+    "static/media/productImages2.jpg": "/demo/static/media/productImages2.7a69456f6306b3285b04.jpg",
+    "static/media/ReviewImages1.jpg": "/demo/static/media/ReviewImages1.8546f3ccb726ba96bd25.jpg",
+    "static/media/menuimages6.jpg": "/demo/static/media/menuimages6.1ad56b82fa126a811cf2.jpg",
+    "static/media/BlogsImages2.jpg": "/demo/static/media/BlogsImages2.4c78bb5f215091949070.jpg",
+    "static/media/menuimages1.jpg": "/demo/static/media/menuimages1.9a162953e987d89ad1ed.jpg",
+    "index.html": "/demo/index.html",
+    "main.0ae794f4.css.map": "/demo/static/css/main.0ae794f4.css.map",
+    "main.0db973e3.js.map": "/demo/static/js/main.0db973e3.js.map",
+    "453.c525d7c0.chunk.js.map": "/demo/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae794f4.css",
+    "static/js/main.0db973e3.js"
+  ]
+}
